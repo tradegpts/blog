@@ -1,0 +1,4 @@
+[submodule "themes/blowfinnfish"]
+	path = themes/blowfinnfish
+	url = https://github.com/benjipeng/blowfinnfish.git
+	branch = main
